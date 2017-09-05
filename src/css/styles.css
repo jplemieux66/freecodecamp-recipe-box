@@ -1,0 +1,20 @@
+#container {
+  background: #F5F5F5;
+  max-width: 1000px;
+  margin: 10px auto;
+  padding: 15px;
+  border: 1px solid #E3E3E3;
+  border-radius: 4px;
+}
+
+.recipe-header a {
+  cursor: pointer;
+}
+
+.ingredients-header {
+  text-align: center;
+}
+
+.delete-button {
+  margin-right: 5px;
+}
